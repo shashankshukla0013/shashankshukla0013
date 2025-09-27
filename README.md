@@ -24,7 +24,7 @@
 </div>
 
 
-<h1>✍️ Random Dev Quote</h1>
+<h1>✍️ Quote of the day </h1>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
