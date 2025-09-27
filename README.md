@@ -15,10 +15,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shashankshukla0013&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankshukla0013&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<h1> 🎮 Life is a GAME </h1>
+<div align='center' width='100%'>
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+         
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=shashankshukla0013&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
